@@ -1,0 +1,20 @@
+Two Pointer Technique
+Sliding Window
+Fast & Slow Pointer
+Merge Intervals
+Cyclic Sort
+In-place Reversal of a Linked List
+Tree Breadth First Search
+Tree Depth First Search
+Two Heaps
+Subset Pattern (Backtracking)
+Modified Binary Search
+Top 'K' Elements
+K-way Merge
+0/1 Knapsack (Dynamic Programming)
+Topological Sort (Graph)
+Floyd's Cycle Detection Algorithm
+Kadane’s Algorithm (Dynamic Programming)
+Longest Common Subsequence/Substring (Dynamic Programming)
+Union Find (Disjoint Set)
+Trie (Prefix Tree)
