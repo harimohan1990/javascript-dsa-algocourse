@@ -17,7 +17,7 @@ var maxArea = function(height) {
 };
 
 /* 
-Sure! Here is a detailed explanation of the code along with its time and space complexity analysis:
+ explanation of the code along with its time and space complexity analysis:
 
 ### Code Description
 
